@@ -1,0 +1,6 @@
+Problem Statement 9: Scenario: The shift toward digital learning has opened up new opportunities for students but has also introduced significant challenges. Many students struggle with staying organized, motivated, and engaged in their studies when they lack the structure of a traditional classroom environment. Managing multiple assignments, keeping track of deadlines, and finding reliable study resources can be overwhelming, particularly for students who are not accustomed to self-directed learning. Additionally, the absence of in-person interactions with teachers and peers can lead to feelings of isolation, further diminishing students' motivation and performance. While learning management systems (LMS) provide a basic framework for digital education, they often lack the personalization and support needed to address these individual challenges."
+create a java fullstack workspace project to create all the required files and mainly focus on above problem statement which includes below Backend: Spring Boot (Java) with RESTful APIs
+Frontend: React (or plain HTML/CSS/JS with Thymeleaf)
+Database: MySQL (JPA/Hibernate)
+Authentication: Spring Security with JWT
+Deployment: Docker
